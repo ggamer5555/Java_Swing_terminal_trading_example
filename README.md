@@ -4,6 +4,15 @@ FundModelSwingClient
 FundModelSwingClient is a Java Swing desktop program for viewing local crypto
 spot OHLCV price data and local trading database tables.
 
+<img width="1400" height="889" alt="image" src="https://github.com/user-attachments/assets/e18534ef-7c47-4e26-abe0-09bdde04059e" />
+
+<img width="1401" height="885" alt="image" src="https://github.com/user-attachments/assets/2a30ee3e-48da-48e2-9969-bfab96a3c875" />
+
+<img width="1402" height="995" alt="image" src="https://github.com/user-attachments/assets/1f5545d1-4221-486c-b9a9-31e9c88c0950" />
+
+<img width="1078" height="431" alt="image" src="https://github.com/user-attachments/assets/475e07fb-a93e-4101-99e1-872cb5147ad6" />
+
+
 What it does
 ------------
 
